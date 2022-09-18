@@ -17,7 +17,7 @@
 
 
 #### Directory Structure
-`
+
     $env:USERPROFILE\.config
     
     powershell
@@ -29,4 +29,4 @@
     #Prompt customizations
     
     my.omp.json
-`
+
