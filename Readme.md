@@ -1,25 +1,32 @@
 # Configure dotfiles
+ 
 
-Hack (NerdFonts) A Powerline-patched font
+#### Hack (NerdFonts) A Powerline-patched font
 
-Scoop - A Command-line Installer
+#### Scoop - A Command-line Installer
 
-Oh My Posh - Prompt theme engine
+#### Oh My Posh - Prompt theme engine 
 
-Terminal-Icons - File and folder Icons
+#### Terminal-Icons - File and folder Icons 
 
-### PSReadline - Cmlets for customizing the editing environment, used for autocompletion
+#### PSReadline - Cmlets for customizing the editing environment, used for autocompletion
 
-z - Directory jumper
+#### z - Directory jumper 
 
-Fzfm PSFzf - Fuzzy finder
+#### Fzfm PSFzf - Fuzzy finder
 
-Directory Structure
+
+#### Directory Structure
 `
-$env:USERPROFILE\.config
+    $env:USERPROFILE\.config
+    
     powershell
-        # config File
-        user_profile.ps1
-        #Prompt customizations
-        my.omp.json 
+    
+    #config File
+    
+    user_profile.ps1
+    
+    #Prompt customizations
+    
+    my.omp.json
 `
