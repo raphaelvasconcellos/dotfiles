@@ -7,8 +7,13 @@ Installing Windows Terminal from MS Store and configure default
 [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 
 #### Scoop - A Command-line Installer
- Installing ` iwr -useb get.scoop.sh | iex`
+ Install ` iwr -useb get.scoop.sh | iex`
  `scoop install curl sudo jq`
+ 
+ Install GIT
+ `winget install -e --id Git.Git`
+ Install neovim
+ `scoop install neovim gcc`
  
 
 #### Oh My Posh - Prompt theme engine 
