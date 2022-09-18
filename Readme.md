@@ -1,4 +1,4 @@
-#Configure dotfiles
+# Configure dotfiles
 
 #Hack (NerdFonts) A Powerline-patched font
 
