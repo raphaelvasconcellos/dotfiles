@@ -19,6 +19,8 @@ Installing Windows Terminal from MS Store and configure default
 #### Oh My Posh - Prompt theme engine 
 
 #### Terminal-Icons - File and folder Icons 
+Install-Module Terminal-Icons
+Import-Module Terminal-Icons
 
 #### PSReadline - Cmlets for customizing the editing environment, used for autocompletion
 
@@ -30,7 +32,7 @@ Installing Windows Terminal from MS Store and configure default
 #### Directory Structure
 
     $env:USERPROFILE\.config
-    
+    ``
     powershell
     
     #config File
